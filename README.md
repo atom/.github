@@ -1,3 +1,3 @@
-# Atom default Probot configuration
+# Atom Default Metadata
 
-Default configuration for Probot apps across all repos in the @atom organization.
+:rotating_light: **WARNING** :rotating_light: This README should only show on the repository at https://github.com/atom/.github. If it is showing on some other repo, please open an issue to have it fixed.
