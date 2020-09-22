@@ -32,7 +32,7 @@ The following is a set of guidelines for contributing to Atom and its packages, 
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Atom Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
+This project and everyone participating in it is governed by the [Atom Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior using our [contact form](https://support.github.com/contact?tags=atom-support).
 
 ## I don't want to read this whole thing I just have a question!!!
 
